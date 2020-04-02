@@ -1,6 +1,8 @@
 # Jalkapallo_Jaakko
 Robotiikka-kurssin lopputyö. Rakensin alusta asti robotin valitsemistani osista ja ohjelmoin sen toiminnot. Tämän robotti "pelaa jalkapalloa".
 
+![Kuva Jalkapallo_Jaakosta](/kuva_Jalkapallo_Jaakosta.jpg)
+
 [Videoituja esimerkkejä Jaakon toiminnasta](https://photos.app.goo.gl/cSrG7Hgc1SSKotdDA)
 
 ## Robotin käyttötarkoitus
