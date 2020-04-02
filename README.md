@@ -1,8 +1,7 @@
 # Jalkapallo_Jaakko
-Robotiikka-kurssin lopputyö. Rakensimme alusta asti robotin valitsemistamme osista ja ohjelmoimme sen toiminnot. Tämän robotti "pelaa jalkapalloa".
+Robotiikka-kurssin lopputyö. Rakensin alusta asti robotin valitsemistani osista ja ohjelmoin sen toiminnot. Tämän robotti "pelaa jalkapalloa".
 
-Jaettu Google photos albumi, jossa esimerkkejä Jaakon toiminnasta:
-https://photos.app.goo.gl/cSrG7Hgc1SSKotdDA
+[Videoituja esimerkkejä Jaakon toiminnasta](https://photos.app.goo.gl/cSrG7Hgc1SSKotdDA)
 
 ## Robotin käyttötarkoitus
 
@@ -39,7 +38,7 @@ Tällä hetkellä robotti osaa
 Näistä vain ”g suunnista” on tila, jossa robotti mittaa ympäristöään ja osaa tehdä itsenäisiä päätöksiä mittausten pohjalta.
 Robotin ohjaamiseen voi käyttää mitä tahansa oikein konfiguroitua kauko-ohjainta. Itse käytin Processing 3 –työkalulla ohjelmoimaani kauko-ohjainta.
 
-## Kuinka lähestyimme ongelmaa
+## Kuinka lähestyin ongelmaa
 Lähestyin ongelmaa, vai pitäisikö sanoa kaikkia ongelmia, hyvin pragmaattisesti ja virheistä oppien. Jokainen iteraatio paranteli robottia joltain osin, vaikka välillä liitäntöjä hajosi ja komponentit lakkasivat toimimasta, mutta näistäkin tilanteista opittiin paljon.
 
 Projekti alkoi rungon miettimisellä ja DC-moottoreiden kiinnityksellä siihen. Tämän päälle liitin akun ja toisen kerroksen, johon Arduino Uno + motorshield ja kaikki muut komponentit liitettiin. Meillä oli kuitenkin alusta asti selkeä visio jalkapallorobotin toiminnasta ja isot linjat sen toteutuksesta oli mietitty heti projektin alussa. Lopullinen muoto eli projektin edetessä ja tämän
