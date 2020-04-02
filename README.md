@@ -61,7 +61,7 @@ Korona-episodin myötä myös toimintaperiaatteet sekä lopullinen ulkomuoto muu
 - Servo.h
     
 **Algoritmit**
-Simppeli suunnistusalgoritmi:
+- Simppeli suunnistusalgoritmi:
 1. jos edessä tilaa -> aja eteenpäin
 2. tai jos edessä este alle 10 cm päässä -> pysähdy ja käänny 90 astetta oikealle
 3. toista
