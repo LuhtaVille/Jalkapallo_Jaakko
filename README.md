@@ -80,6 +80,6 @@ Korona-episodin myötä myös toimintaperiaatteet sekä lopullinen ulkomuoto muu
 ## Kehitysideoita
 1. Infrapuna-sensorilla ja oikeanlaisella pallolla robotin saisi pelaamaan jalkapalloa
 itsenäisesti
-2. USB-johto tekee robotista vähän kömpelön. Esim. xbeellä ja toisella akulla kaukoohjattavuus poistaisi tämän ongelman.
+2. USB-johto tekee robotista vähän kömpelön. Esim. xbeellä ja toisella akulla kauko-ohjattavuus poistaisi tämän ongelman.
 3. Robotin voisi koteloida, jolloin saataisiin vielä parempi ulkonäkö ja suojaus iskuilta.
-4. Lisää tanssimuuveja
+4. Lisää tanssimuuveja ja tuuletuksia
